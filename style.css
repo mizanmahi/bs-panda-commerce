@@ -23,6 +23,14 @@ body {
 .panda-bg-primary {
     background: var(--color-bg);
 }
+.panda-bg-secondary {
+    background: var(--color-secondary);
+}
+
+.text-panda {
+    color: var(--color-secondary);
+    font-size: 3rem;
+}
 
 .carousel-item {
     padding: 20px 40px;
