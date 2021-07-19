@@ -61,3 +61,8 @@ body {
 .panda-carousel {
     margin-top: 7rem;
 }
+
+.panda-input {
+    width: 350px;
+    max-width: 100%;
+}
